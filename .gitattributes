@@ -8,3 +8,4 @@ ijkplayer-Swift filter=lfs diff=lfs merge=lfs -text
 ijkplayer.podspec filter=lfs diff=lfs merge=lfs -text
 ijkplayerssl.podspec filter=lfs diff=lfs merge=lfs -text
 screenshot filter=lfs diff=lfs merge=lfs -text
+IJKMediaFramework.framework/IJKMediaFramework filter=lfs diff=lfs merge=lfs -text
