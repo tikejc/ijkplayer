@@ -1,0 +1,16 @@
+PODS:
+  - ijkplayerssl (1.1.3)
+
+DEPENDENCIES:
+  - ijkplayerssl (from `../`)
+
+EXTERNAL SOURCES:
+  ijkplayerssl:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ijkplayerssl: 9fccc0f77a9a0de140a90e0adcb6d8fc6fe20f61
+
+PODFILE CHECKSUM: 1a2042cd8bfff8de8c03e645fe35ab74c1694c66
+
+COCOAPODS: 1.5.3
